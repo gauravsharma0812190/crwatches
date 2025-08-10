@@ -1,8 +1,6 @@
 # Sneaker Ecommerce
 
-> I've improved and updated the front-end code on the improve/legacy-code branch. If you're having issues starting the project with the backend, use this branch. I'll be improving the backend code and connecting it soon.
->
-> See it live here: https://ecommerce-app-ms-sql-net-react.vercel.app/
+> Note: I've improved the front-end code on the improve/legacy-code branch. If you're having issues starting the project with the backend, use this branch—it's set up with dummy data for now, but you can switch it out with your own backend. I'll be improving the backend code and connecting it soon.
 
 
 <!-- TABLE OF CONTENTS -->
@@ -121,7 +119,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <!-- CONTACT -->
 ## Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-Maria-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-nguyen-le/)](https://www.linkedin.com/in/maria-nguyen-le/)
 
 <p align="right">(<a href="#sneaker-ecommerce">back to top</a>)</p>
   
